@@ -1,6 +1,6 @@
 <?php
-require_once "includes/class.phpmailer.php";
-require_once "includes/class.smtp.php";
+require_once "class.phpmailer.php";
+require_once "class.smtp.php";
 //if ($_SERVER ["REQUEST_METHOD"]=="POST"){
 if ($_SERVER ["REQUEST_METHOD"]=="POST"){
 	$from=$_POST['from'];

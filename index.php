@@ -19,6 +19,7 @@
   <body><div class="row">
    <div class="col-sm-2"></div>
    <div class="col-sm-8">
+       <h1>Send Mail From Gmail.com</h1>
 <form action="phpmail.php" method="post">
 <br>
 <input type="text" name="from" size="120" placeholder="Youremail@gmail.com"><br>
